@@ -18,3 +18,9 @@ I work remotely and like to travel a lot.
 <code><img src="https://www.freelogovectors.net/wp-content/uploads/2022/01/notionlogo-freelogovectors.net_.png" width="70px" height="50px"></code>
 <code><img src="https://ag.digital/wp-content/uploads/2019/08/Group-5.png" width="70px" height="50px"></code>
 
+<br />
+
+-📍 &nbsp; Current location: Fergana, Uzbekistan
+
+
+
