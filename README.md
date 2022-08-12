@@ -16,5 +16,5 @@ I work remotely and like to travel a lot.
 <code><img src="https://flyclipart.com/thumb2/react-logo-import-io-221727.png" width="30px"></code>
 <code><img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" width="30px"></code>
 <code><img src="https://www.freelogovectors.net/wp-content/uploads/2022/01/notionlogo-freelogovectors.net_.png" width="30px"></code>
-<code><img src="http://assets.stickpng.com/thumbs/62c6bc0beee9410fe137d91e.png" width="30px"></code>
+<code><img src="https://ag.digital/wp-content/uploads/2019/08/Group-5.png" width="50px"></code>
 
